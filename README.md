@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitAshwani
 - 👀 I’m interested in Data and everything else based on data...
-- 🌱 I’m currently learning Big Data Analytics, Business, Machine learning
+- 🌱 I’m currently deep diving Big Data Analytics, Business, Machine learning
 - 📫 How to reach me https://www.linkedin.com/in/ashwaninitharwal/
 
 <!---
